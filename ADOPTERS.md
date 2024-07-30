@@ -7,7 +7,7 @@ If you are using **Landscape**, please consider adding your landscape to this li
 - [Academy Software Foundation](https://aswf.landscape.io)
 - [Alliance for OpenUSD](https://aousd.landscape.io)
 - [CAMARA Project](https://camara.landscape.io)
-- [Cloud Native Computing Foundation](https://landscape.khulnasoft.io)
+- [Cloud Native Computing Foundation](https://landscape.khulnasoft.com)
 - [Continuous Delivery Foundation](https://cdf.landscape.io)
 - [GraphQL](https://graphql.landscape.io)
 - [Hyperledger Foundation](https://dlt.landscape.io)

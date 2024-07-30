@@ -12,7 +12,7 @@ categories:
           - name: Item 1
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 1
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             project: graduated
             repo_url: https://github.com/khulnasoft/landscape
@@ -20,28 +20,28 @@ categories:
           - name: Item 2
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 2
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             project: sandbox
             repo_url: https://github.com/khulnasoft/landscape
             twitter: https://twitter.com/CloudNativeFdn
           - name: Item 3
             description: This is the description of item 3
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
       - name: Subcategory 1-2
         items:
           - name: Item 4
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 4
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             repo_url: https://github.com/khulnasoft/landscape
             twitter: https://twitter.com/CloudNativeFdn
           - name: Item 5
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 5
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             repo_url: https://github.com/khulnasoft/landscape
   - name: Category 2
@@ -51,7 +51,7 @@ categories:
           - name: Item 6
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 6
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             project: graduated
             repo_url: https://github.com/khulnasoft/landscape
@@ -59,21 +59,21 @@ categories:
           - name: Item 7
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 7
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             project: sandbox
             repo_url: https://github.com/khulnasoft/landscape
             twitter: https://twitter.com/CloudNativeFdn
           - name: Item 8
             description: This is the description of item 8
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
       - name: Subcategory 2-2
         items:
           - item:
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
             description: This is the description of item 9
-            homepage_url: https://khulnasoft.io
+            homepage_url: https://khulnasoft.com
             logo: khulnasoft.svg
             name: Item 9
             repo_url: https://github.com/khulnasoft/landscape

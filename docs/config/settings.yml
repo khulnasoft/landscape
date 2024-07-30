@@ -17,7 +17,7 @@ foundation: KhulnaSoft
 #
 # url: <LANDSCAPE_URL>
 #
-url: https://landscape.khulnasoft.io
+url: https://landscape.khulnasoft.com
 
 # Analytics (optional)
 #
@@ -174,13 +174,13 @@ footer:
     facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
     flickr: "https://www.flickr.com/photos/143247548@N03/albums"
     github: "https://github.com/khulnasoft"
-    homepage: "https://khulnasoft.io"
+    homepage: "https://khulnasoft.com"
     instagram: "https://www.instagram.com/humans.of.cloudnative/"
     linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.khulnasoft.io/"
+    slack: "https://slack.khulnasoft.com/"
     twitch: "https://www.twitch.tv/cloudnativefdn"
     twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.khulnasoft.io/wechat/"
+    wechat: "https://www.khulnasoft.com/wechat/"
     youtube: "https://www.youtube.com/c/cloudnativefdn"
   logo: "https://raw.githubusercontent.com/khulnasoft/artwork/master/other/khulnasoft/horizontal/white/khulnasoft-white.svg"
   text: |
@@ -258,7 +258,7 @@ header:
 #
 images:
   favicon: "https://raw.githubusercontent.com/khulnasoft/artwork/master/other/khulnasoft-landscape/icon/color/khulnasoft-landscape-icon-color.png"
-  open_graph: "https://landscape.khulnasoft.io/images/social.jpg"
+  open_graph: "https://landscape.khulnasoft.com/images/social.jpg"
 
 # Logos viewbox (optional)
 #
@@ -415,7 +415,7 @@ upcoming_event:
   name: "KubeCon + CloudNativeCon EU 2024"
   start: "2024-03-19"
   end: "2024-03-22"
-  banner_url: "https://www.khulnasoft.io/wp-content/uploads/2024/01/kceu24_promo_2400x300.png"
+  banner_url: "https://www.khulnasoft.com/wp-content/uploads/2024/01/kceu24_promo_2400x300.png"
   details_url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/?utm_source=landscape&utm_medium=all&utm_campaign=kubeconeu24&utm_content=slim-banner"
 
 # View mode (optional)
