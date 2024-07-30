@@ -7,22 +7,6 @@ You can check out how the generated landscapes look like by visiting the [Khulna
 > [!WARNING]
 > Landscape is at an early stage of development. There may be breaking changes in the future to the command usage, flags, and configuration file formats.
 
-<br/>
-<table>
-    <tr>
-        <td width="50%"><img src="docs/screenshots/landscape1.png?raw=true"></td>
-        <td width="50%"><img src="docs/screenshots/landscape.png?raw=true"></td>
-    </tr>
-    <tr>
-        <td width="50%"><img src="docs/screenshots/landscape3.png?raw=true"></td>
-        <td width="50%"><img src="docs/screenshots/landscape4.png?raw=true"></td>
-    </tr>
-    <tr>
-        <td width="50%"><img src="docs/screenshots/landscape5.png?raw=true"></td>
-        <td width="50%"><img src="docs/screenshots/landscape6.png?raw=true"></td>
-    </tr>
-</table>
-
 ## How it works
 
 **Landscape** is a CLI tool that generates static websites from the information available in the data sources provided. These data sources are passed to the tool via arguments, usually in the form of *urls* or *local paths*, and are as follows:
